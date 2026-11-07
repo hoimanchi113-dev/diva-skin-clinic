@@ -1,0 +1,51 @@
+[
+  {
+    "name": "home-desktop",
+    "width": 1440,
+    "height": 1000,
+    "overflow": false,
+    "h1": "Làn da của bạn.\nMột lộ trình riêng."
+  },
+  {
+    "name": "programs-desktop",
+    "width": 1440,
+    "height": 1000,
+    "overflow": false,
+    "h1": "Một lộ trình riêng\ncho làn da của bạn."
+  },
+  {
+    "name": "acne-desktop",
+    "width": 1440,
+    "height": 1000,
+    "overflow": false,
+    "h1": "Acne Control"
+  },
+  {
+    "name": "home-mobile",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "h1": "Làn da của bạn.\nMột lộ trình riêng."
+  },
+  {
+    "name": "acne-mobile",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "h1": "Acne Control"
+  },
+  {
+    "name": "programs-tablet",
+    "width": 768,
+    "height": 1024,
+    "overflow": false,
+    "h1": "Một lộ trình riêng\ncho làn da của bạn."
+  },
+  {
+    "name": "programs-concept-size",
+    "width": 1024,
+    "height": 1536,
+    "overflow": false,
+    "h1": "Một lộ trình riêng\ncho làn da của bạn."
+  }
+]
